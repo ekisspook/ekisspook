@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekisspook
+- 👋 Hi,  @ekisspook
 - 👀 I’m interested in ... life, the universe and everything
 - 🌱 I’m currently learning ... about life, the universe and everything everything
 - 💞️ I’m looking to collaborate on ... life, the universe and everything
