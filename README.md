@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... about life, the universe and everything everything
 - 💞️ I’m looking to collaborate on ... life, the universe and everything
 - 📫 How to reach me ... by using the secret.
-- :-p Someday soon Ill grow up to be a beer truck.
+-    Someday soon Ill grow up to be a beer truck. :-p 
 
 <!---
 ekisspook/ekisspook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
